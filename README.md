@@ -1,2 +1,2 @@
 # SPK Pemberian Bonus Karyawan
-Tugas Kuliah Sistem Pendukung Keputusan Dengan Metode WP
+Cara menghitung pemberian bonus pada karyawan menggunakan php
